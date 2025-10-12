@@ -7,7 +7,7 @@ Daily solutions to LeetCode easy problems
 3. ✅ 242- Valid Anagram – Hashmap (dictionary) count  
 4. ✅ Valid Palindrome – Clean and reverse  
 5. ✅ 121- Best Time to Buy and Sell Stock – Two pointer optimization
-6. ✅ Roman to Integer 
+6. ✅ 13- Roman to Integer 
 
 Each solution includes:
 - Code
