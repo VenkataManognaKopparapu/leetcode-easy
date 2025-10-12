@@ -42,8 +42,7 @@ Do the same for the second string.
 Compare both counts — if they match, the strings are anagrams.
 
 
-                                   
-                                   Step-by-Step
+Step-by-Step
 
                                    
 
